@@ -154,8 +154,8 @@ const dom = {
   timerPresets:  document.querySelectorAll('.timer-preset'),
   timerCustomIn: $('timer-custom-input'),
   btnSetCustom:  $('btn-set-custom'),
-  timerRemaining:$('timer-remaining'),
-  btnCancelTimer:$('btn-cancel-timer'),
+  timerRemaining:   $('timer-remaining'),
+  btnCancelTimer:   $('btn-cancel-timer'),
 
   // Drop overlay
   dropOverlay:   $('drop-overlay'),
